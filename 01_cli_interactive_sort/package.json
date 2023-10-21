@@ -1,5 +1,5 @@
 {
-  "name": "01-cli-interactive-sort",
+  "name": "01_cli_interactive_sort",
   "version": "1.0.0",
   "description": "Serverless team academy",
   "main": "index.js",
