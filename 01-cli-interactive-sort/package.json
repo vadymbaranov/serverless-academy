@@ -1,0 +1,12 @@
+{
+  "name": "01-cli-interactive-sort",
+  "version": "1.0.0",
+  "description": "Serverless team academy",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vadym",
+  "license": "ISC"
+}
