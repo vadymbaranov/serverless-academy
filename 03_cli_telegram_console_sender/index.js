@@ -1,8 +1,6 @@
 import { program } from 'commander';
 import TelegramBot from 'node-telegram-bot-api';
 
-// const program = new Command();
-
 program
     .name('console-bot')
     .description('Telegram bot from your console')
